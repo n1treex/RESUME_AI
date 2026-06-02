@@ -1,1 +1,1 @@
-# RESUME_AI
+# Вся информация, связанная с проектом Resume_AI, находится в resume_ai_main
